@@ -38,3 +38,7 @@ Evidence
 reports/xss/vulnerable.html
 
 reports/xss/fixed.html
+
+Commit with fix
+
+Commit with fix: https://github.com/barakamukungu/amazon-demo/commit/6d95e251476250fcabd44908a0d870935162507b
